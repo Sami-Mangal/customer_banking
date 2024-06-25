@@ -18,14 +18,14 @@ This is a customer banking system that allows users to calcul;ate and track nter
 
 * Run "customer_banking.py". 
 
-* Enter valeus as assked.
+* Enter values as asked.
 
-* Updated balance and interest earned will be printed
+* Updated balance and interest earned will be printed.
 
 
 
 ## Notes
 
 These codes are for the fullfillment for assignment for Columbia AI Bootcamp Module 3rd.
-Location
- () 
+
+
